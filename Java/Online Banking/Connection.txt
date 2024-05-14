@@ -1,4 +1,9 @@
 jcalendar-tz-1.3.3-4
 mysql-connector-java-8.0.28
 
-This is to Connector that you have to Connect with your NetBeans Library option. Otherwise, the code is not executed.  
+This is to Connector that you have to Connect with your NetBeans Library option. Otherwise, the code is not executed.
+
+Online Banking.sql
+
+That's a MySQL file. it is the main Database file.
+in this file all queries are present.
