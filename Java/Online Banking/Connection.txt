@@ -1,4 +1,4 @@
 jcalendar-tz-1.3.3-4
 mysql-connector-java-8.0.28
 
-This is to Connector that you have to Connect with your NetBeans Library option. Otherwise, code is not executed.  
+This is to Connector that you have to Connect with your NetBeans Library option. Otherwise, the code is not executed.  
