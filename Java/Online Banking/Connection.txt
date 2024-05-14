@@ -7,3 +7,4 @@ Online Banking.sql
 
 That's a MySQL file. it is the main Database file.
 in this file all queries are present.
+But first, you have to create a MySQL database also connect your Java file with
